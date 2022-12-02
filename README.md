@@ -9,6 +9,9 @@ variables affect the house price.
 Using more than one model, predict the price of the house using the given dataset. Please compare the
 accuracy of the models along with the drawbacks of each technique's assumptions before recommending
 the final prediction model.
+
+
+**Notebook Link:** [Click Here](https://github.com/Dawood-Sheikh/Shack_Labs/blob/master/DS%20-%20Assignment%20Part%201%20data%20set/DS%20-%20Assignment%20Part%201%20-%20Price%20Prediction%20of%20a%20House.ipynb)
 ____________________________________________________________________________
 ### Part 2: Product matching
 **Attached is sample product lists from Flipkart & Amazon**
@@ -33,6 +36,11 @@ Once we input the product details, the output should be as follows:
 Product name in Flipkart | Retail Price in Flipkart | Discounted Price in Flipkart | Product name in Amazon | Retail Price in Amazon | Discounted Price in Amazon
 -------------------------|--------------------------|------------------------------|------------------------|------------------------|----------------------------
 FDT Women's Leggings | 699 | 309 | FDT WOMEN'S Leggings Pants | 698 | 362
+
+
+**Notebook Link:** [Click Here](https://github.com/Dawood-Sheikh/Shack_Labs/blob/master/DS%20-%20Assignment%20Part%202%20data%20set/DS%20Assignment%20Part%202%20Product%20matching.ipynb)
+
+________________________________________________________________________________________________
 
 **Guidelines:**
 
